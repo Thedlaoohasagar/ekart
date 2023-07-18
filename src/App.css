@@ -1,0 +1,14 @@
+.names{
+  width:100%;
+  height:100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content:center ;
+  align-items: center;
+  
+}
+.name{
+  width: 20rem;
+  height: 30rem;
+
+}
